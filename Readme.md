@@ -1,2 +1,11 @@
-Hey this is Manav Patel here. i am new here to this platform and I am not sure if i know how to use this software. 
-Please don't mind if i had made any mistakes. Because as they say "learn from our mistakes."
+
+
+
+-- MANAV PATEL --
+
+This is Readme.md 
+This file just indicates that it is my first erspository on the github. 
+
+In this one i will upload some of my main basic java projects.
+I am just learning from this file.
+
